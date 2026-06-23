@@ -1,0 +1,6 @@
+﻿Clases;Tarifa;Cambios Permitidos;Sala VIP;Elección asiento;Demanda media esperada;Desviación típica
+A;120;Si;Si;Si;12;4
+B;110;Solo 1 (penalización 20e);Si;Si;17;6
+C;90;Solo 1 (penalización 50e);No;Si;14;5
+D;80;No;No;No;86;14
+E;60;No;No;No;125;22
